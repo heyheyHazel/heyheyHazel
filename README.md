@@ -16,6 +16,16 @@
 
 - To be continued...
 
+
+<h2 align="left">📝Notes｜笔记</h2>
+
+- **Deep Learning**
+  - CNN: done✅
+  - Transformer: done✅
+- **Data Structure**: doing
+- **LLM**: doing
+
+
 <h2 align="left">🔨Languages and Tools｜技能</h2>
 
 
