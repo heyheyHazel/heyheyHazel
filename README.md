@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm heyheyHazel</h1>
-<h4 align="left">Striving to become a Full-Stack Data Scientist🤓💪</h4>
+<h1 align="center">Hi 👋, I'm Hazel</h1>
+<h4 align="left">I'm striving to become a Full-Stack Data Scientist🤓💪</h4>
 
-<h2 align="left">📍Profile</h2>
+<h2 align="left">📍Profile｜简介</h2>
 
-- Education Background: **M.S. in Statistics**
-- Interests: **AI Product & Algorithm & LLM**
-- Currently working on: **DL & LLM & Leetcode**
+- Education Background: **M.S. in Statistics｜B.S. in Data Science**
+- Interests: **AI Product｜Algorithm｜LLM**
+- Currently working on: **DL｜LLM｜Leetcode**
 
 
-<h2 align="left">📕Social Media:</h2>
+<h2 align="left">📕Social Media｜自媒体</h2>
 
 - Follow me on [**Xiaohongshu**](https://www.xiaohongshu.com/user/profile/6707bd58000000000d025614) and study with me!
 
-<h2 align="left">🎯Projects:</h2>
+<h2 align="left">🎯Projects｜项目</h2>
 
 - To be continued...
 
-<h2 align="left">🔨Languages and Tools:</h2>
+<h2 align="left">🔨Languages and Tools｜技能</h2>
 
 
 <p align="left"> 
@@ -35,7 +35,7 @@
   
 </p>
 
-<h2 align="left">💡Github Info:</h2>
+<h2 align="left">💡Github Info｜信息</h2>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyheyhazel&show_icons=true&locale=en&layout=compact" alt="heyheyhazel" /></p> -->
 
