@@ -21,7 +21,7 @@
 
 - **Deep Learning**
   - **CNN**: done✅
-  - **Transformer**: [手撕Transformer完整代码](Transformer/transformer.ipynb)✅
+  - **Transformer**: [手撕Transformer完整代码](https://github.com/heyheyHazel/Transformer/blob/0f9f9c9856ffd32b7b94ec3859483f7a514ae052/transformer.ipynb)✅
 - **Data Structure**: doing
 - **LLM**: doing
 
