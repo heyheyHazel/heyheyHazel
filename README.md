@@ -10,7 +10,7 @@
 
 <h2 align="left">📕Social Media｜自媒体</h2>
 
-- Follow me on [**Xiaohongshu**](https://www.xiaohongshu.com/user/profile/6707bd58000000000d025614) and study with me!
+- Follow me on [**Xiaohongshu**](https://xhslink.com/m/9umC6D257rf) and study with me!
 
 <h2 align="left">🎯Projects｜项目</h2>
 
