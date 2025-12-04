@@ -45,8 +45,8 @@
   
 </p>
 
-<h2 align="left">💡Github Info｜信息</h2>
+<!-- <h2 align="left">💡Github Info｜信息</h2> -->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyheyhazel&show_icons=true&locale=en&layout=compact" alt="heyheyhazel" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyheyhazel&show_icons=true&theme=highcontrast&locale=en" alt="heyheyhazel" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyheyhazel&show_icons=true&theme=highcontrast&locale=en" alt="heyheyhazel" /></p> -->
