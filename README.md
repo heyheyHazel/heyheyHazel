@@ -4,8 +4,8 @@
 <h2 align="left">📍Profile｜简介</h2>
 
 - Education Background: **M.S. in Statistics｜B.S. in Data Science**
-- Interests: **AI Product｜Algorithm｜LLM**
-- Currently working on: **DL｜LLM｜Leetcode**
+- Interests: **AI Product｜Statistical Learning｜LLM**
+- Currently working on: **RL｜LLM｜Leetcode**
 
 
 <h2 align="left">📕Social Media｜自媒体</h2>
