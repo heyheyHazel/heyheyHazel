@@ -22,8 +22,9 @@
 - **Deep Learning**
   - **CNN**: [卷积神经网络模型及代码](https://github.com/heyheyHazel/Convolutional-Neural-Network.git)✅
   - **Transformer**: [手撕Transformer完整代码](https://github.com/heyheyHazel/Transformer/blob/0f9f9c9856ffd32b7b94ec3859483f7a514ae052/transformer.ipynb)✅
+- **Reinforcement Learning**: [强化学习算法实现doing](https://github.com/heyheyHazel/Reinforcement-Learning.git)⭕️
 - **Data Structure**: [数据结构学习笔记doing](https://github.com/heyheyHazel/Data-Structure.git)⭕️
-- **LLM**: doing
+
 
 
 <h2 align="left">🔨Languages and Tools｜技能</h2>
