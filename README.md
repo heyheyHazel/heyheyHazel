@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Hazel</h1>
-<h4 align="left">I'm striving to become a Full-Stack Data Scientist🤓💪</h4>
+<h4 align="left">Striving to become a Full-Stack Data Scientist🤓💪</h4>
 
 <h2 align="left">📍Profile｜简介</h2>
 
 - Education Background: **M.S. in Statistics｜B.S. in Data Science**
-- Interests: **AI Product｜Statistical Learning｜LLM**
-- Currently working on: **RL｜LLM｜Leetcode**
-
+- Interests: **LLM｜RL｜AI Product**
+- Currently working on: **Agent｜Post Training｜Leetcode｜CS336 Assignments**
 
 <h2 align="left">📕Social Media｜自媒体</h2>
 
-- Follow me on [**Xiaohongshu**](https://xhslink.com/m/9umC6D257rf) and study with me!
+- Follow me on [**Xiaohongshu**](https://xhslink.com/m/9umC6D257rf).
 
 <h2 align="left">🎯Projects｜项目</h2>
 
-- To be continued...
+- **LLM**
+  - [医疗大模型微调与RLHF对齐](https://github.com/heyheyHazel/MedicalGPT.git)
 
 
 <h2 align="left">📝Notes｜笔记</h2>
@@ -22,8 +22,8 @@
 - **Deep Learning**
   - **CNN**: [卷积神经网络模型及代码](https://github.com/heyheyHazel/Convolutional-Neural-Network.git)✅
   - **Transformer**: [手撕Transformer完整代码](https://github.com/heyheyHazel/Transformer/blob/0f9f9c9856ffd32b7b94ec3859483f7a514ae052/transformer.ipynb)✅
-- **Reinforcement Learning**: [强化学习算法实现doing](https://github.com/heyheyHazel/Reinforcement-Learning.git)⭕️
-- **Data Structure**: [数据结构学习笔记doing](https://github.com/heyheyHazel/Data-Structure.git)⭕️
+- **Reinforcement Learning**: [强化学习算法实现](https://github.com/heyheyHazel/Reinforcement-Learning.git)✅
+- **Data Structure**: [数据结构学习笔记](https://github.com/heyheyHazel/Data-Structure.git)✅
 
 
 
