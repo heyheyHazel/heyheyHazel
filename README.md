@@ -7,9 +7,6 @@
 - Interests: **LLM｜RL｜AI Product**
 - Currently working on: **Agent｜Post Training｜Leetcode｜CS336 Assignments**
 
-<h2 align="left">📕Social Media｜自媒体</h2>
-
-- Follow me on [**Xiaohongshu**](https://xhslink.com/m/9umC6D257rf).
 
 <h2 align="left">🎯Projects｜项目</h2>
 
