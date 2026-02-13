@@ -15,6 +15,7 @@
 
 - **LLM**
   - [医疗大模型微调与RLHF对齐](https://github.com/heyheyHazel/MedicalGPT.git)
+  - [minimind: 从零构建LLM](https://github.com/heyheyHazel/minimind.git)
 
 
 <h2 align="left">📝Notes｜笔记</h2>
