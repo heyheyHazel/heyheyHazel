@@ -3,9 +3,9 @@
 
 <h2 align="left">📍Profile｜简介</h2>
 
-- Education Background: **M.S. in Statistics｜B.S. in Data Science**
-- Interests: **LLM｜RL｜AI Product**
-- Currently working on: **Agent｜Post Training｜Leetcode｜CS336 Assignments**
+- Background: **M.S. in Statistics｜B.S. in Data Science**
+- Interests: **Agentic RL｜Self-evolving｜Generative Recommendation**
+- Intern: **Meituan｜Baidu｜Tencent**
 
 
 <h2 align="left">🎯Projects｜项目</h2>
