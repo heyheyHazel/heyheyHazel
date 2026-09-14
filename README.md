@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hazel</h1>
-<h4 align="left">Striving to become a Full-Stack Data Scientist🤓💪</h4>
+<h4 align="left">Build the known, dive the unknown.</h4>
 
 <h2 align="left">📍Profile｜简介</h2>
 
-- Background: **M.S. in Statistics｜B.S. in Data Science**
-- Interests: **Agentic RL｜Self-evolving｜Generative Recommendation**
+- Interests: **Agentic RL｜RSI｜Harness**
 - Intern: **Meituan｜Baidu｜Tencent**
 
 
