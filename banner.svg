@@ -46,7 +46,7 @@
     <rect x="80" y="58" width="32" height="3" rx="1.5" fill="#8FC0FF"/>
     <text class="txt" x="80" y="112" font-size="42" font-weight="700" fill="#FFFFFF" letter-spacing="0.6">Elaine</text>
   </g>
-  <text class="txt fade d2" x="80" y="146" font-size="18" fill="#CBDEFB" letter-spacing="0.4">Applied Statistics &#183; Agentic RL &#183; RSI &amp; Infra</text>
+  <text class="txt fade d2" x="80" y="146" font-size="18" fill="#CBDEFB" letter-spacing="0.4">Statistics &#183; Agentic RL &#183; RSI</text>
 
   <path d="M0 166 C 150 138 300 188 470 176 C 640 164 780 128 950 144 C 1090 157 1190 184 1280 170 L1280 220 L0 220 Z" fill="url(#waveA)"/>
   <path d="M0 192 C 170 168 320 204 500 194 C 690 183 830 156 1010 170 C 1140 180 1215 198 1280 190 L1280 220 L0 220 Z" fill="url(#waveB)"/>
