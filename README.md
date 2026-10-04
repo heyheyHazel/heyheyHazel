@@ -1,5 +1,5 @@
 <!-- ======================= BANNER ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:224B8D,100:6EA8FE&height=190&section=header&text=Elaine&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Statistics%20%C2%B7%20Agentic%20RL%20%C2%B7%20RSI%20%26%20Infra&descSize=17&descAlignY=58&animation=fadeIn" alt="banner"/>
+<img width="100%" src="./banner.svg" alt="banner"/>
 
 <!-- ======================= TYPING ======================= -->
 <p align="center">
