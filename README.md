@@ -3,7 +3,7 @@
 
 <!-- ======================= TYPING ======================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&pause=1800&color=224B8D&center=true&vCenter=true&width=620&lines=Agentic%20RL%20%C2%B7%20RSI%20%C2%B7%20Generative%20Recommendation;Statistics%20background%2C%20agent%20builder;Tencent%20WXG%20%C2%B7%20Baidu%20%C2%B7%20Meituan%20Intern" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&pause=1800&color=224B8D&center=true&vCenter=true&width=620&lines=Agentic%20RL%20%C2%B7%20RSI%20%C2%B7%20LLM%20Infrastructure;Statistics%20background%2C%20agent%20builder;Tencent%20WXG%20%C2%B7%20Baidu%20%C2%B7%20Meituan%20Intern" alt="typing"/>
 </p>
 
 <!-- ======================= QUICK BADGES ======================= -->
@@ -21,8 +21,8 @@
 Hi，我是Elaine👋，来自西安交通大学，曾在腾讯WXG、百度和美团做过大模型算法实习。我主要做Agent、LLM相关的研究和工程，关注这几个方向：
 
 - **Agentic Post-training**：通过SFT/RL/OPD训练工具调用Agent，让它在垂类业务场景里真正可用。
-- **Recursive Self-Improvement（RSI）**：把评测与反馈变成训练信号，让Agent自己迭代，而不是靠人工反复调Prompt。
-- **Generative Recommendation​​**：用生成式模型端到端产出推荐结果，替代传统多阶段的召回排序流水线。
+- **Recursive Self-Improvement**：把评测与反馈变成训练信号，让Agent自己迭代，而不是靠人工反复调Prompt。
+- **LLM Infrastructure**：关注RL训练与LLM推理基础设施，优化Agent训练中的rollout、模型服务与推理调度，提高训练效率和线上服务性能。
 
 ---
 
