@@ -3,7 +3,7 @@
 
 <!-- ======================= TYPING ======================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&pause=1800&color=224B8D&center=true&vCenter=true&width=620&lines=Agentic%20RL%20%C2%B7%20RSI%20%C2%B7%20LLM%20Infrastructure;Statistics%20background%2C%20agent%20builder;Tencent%20WXG%20%C2%B7%20Baidu%20%C2%B7%20Meituan%20Intern" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&pause=1800&color=224B8D&center=true&vCenter=true&width=620&lines=Agentic%20RL%20%C2%B7%20RSI%20%C2%B7%20LLM%20Infrastructure;Statistics%20background%2C%20agent%20builder" alt="typing"/>
 </p>
 
 <!-- ======================= QUICK BADGES ======================= -->
@@ -17,12 +17,11 @@
 ---
 
 ## 👩‍💻 About me
+Hi, I’m Elaine 👋, a master’s student at Xi’an Jiaotong University. I’ve interned as an LLM algorithm engineer at Tencent WXG, Baidu, and Meituan. My work focuses on research and engineering for Agents and LLMs, with particular interests in:
 
-Hi，我是Elaine👋，来自西安交通大学，曾在腾讯WXG、百度和美团做过大模型算法实习。我主要做Agent、LLM相关的研究和工程，关注这几个方向：
-
-- **Agentic Post-training**：通过SFT/RL/OPD训练工具调用Agent，让它在垂类业务场景里真正可用。
-- **Recursive Self-Improvement**：把评测与反馈变成训练信号，让Agent自己迭代，而不是靠人工反复调Prompt。
-- **LLM Infrastructure**：关注RL训练与LLM推理基础设施，优化Agent训练中的rollout、模型服务与推理调度，提高训练效率和线上服务性能。
+- **Agentic Post-training**: Training tool-calling Agents with SFT, RL, and OPD to make them work well in domain-specific business scenarios.
+- **Recursive Self-Improvement**: Turning feedback into training signals so Agents can improve iteratively, rather than relying on repeated manual Prompt tuning.
+- **LLM Infrastructure**: Building infrastructure for RL training and LLM inference, improving training efficiency and online performance.
 
 ---
 
@@ -30,10 +29,10 @@ Hi，我是Elaine👋，来自西安交通大学，曾在腾讯WXG、百度和�
 
 | Project | Intro | Stack |
 | --- | --- | --- |
-| [Awesome Agentic Shopping Assistant](https://github.com/heyheyHazel/Awesome-Agentic-Shopping-Assistant) | 基于ShopSimulator真实电商数据的导购 Agent：配套Harness搭建、Agentic Post-training、Thompson Sampling A/B Test以及前后端交互全链路 | Agentic RL · ReAct · A/B TEST · Recommendation |
-| [MIA: Multi-Agent Investment Assistant](https://github.com/heyheyHazel/Investment-Research-Agent) | 投研多智能体 + Agentic RAG：研报问答、金融图表自动生成、多源数据融合，面向二级市场买方场景 | LangGraph · BGE-M3 · Milvus · Streamlit |
-| [MedicalGPT](https://github.com/heyheyHazel/MedicalGPT) | 医疗大模型的完整后训练流程：增量预训练 → SFT → RLHF（RM + PPO/GRPO）→ DPO | PyTorch · RLHF · DPO |
-| [minimind](https://github.com/heyheyHazel/minimind) | 从零搭一个小规模Llama模型：分词、Transformer、预训练和SFT全流程自己写一遍 | PyTorch · Llama |
+| [Awesome Agentic Shopping Assistant](https://github.com/heyheyHazel/Awesome-Agentic-Shopping-Assistant) | A shopping Agent built on real-world e-commerce data, with Harness construction, Agentic Post-training, Thompson Sampling A/B testing, and frontend/backend integration. | Agentic RL · ReAct · A/B Test · Recommendation |
+| [MIA: Multi-Agent Investment Assistant](https://github.com/heyheyHazel/Investment-Research-Agent) | A multi-agent investment research assistant with Agentic RAG, financial chart generation, and multi-source data integration, designed for buy-side market analysis. | LangGraph · BGE-M3 · Milvus · Streamlit |
+| [MedicalGPT](https://github.com/heyheyHazel/MedicalGPT) | Post-training pipeline for medical LLM: including continual pre-training, SFT, RLHF (RM + PPO/GRPO) and DPO training. | PyTorch · RLHF · DPO |
+| [minimind](https://github.com/heyheyHazel/minimind) | A Llama-style model built from scratch, implementing the full workflow from tokenization and Transformer architecture to pre-training and SFT. | PyTorch · Llama |
 
 ---
 
